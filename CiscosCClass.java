@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 //------------------------------------------------------------
 // Francisco Rogel 		February 10, 2017
-//
+// Description: Problems from ciscos C class but written in Java
 //------------------------------------------------------------
 public class CiscosCClass {
 
